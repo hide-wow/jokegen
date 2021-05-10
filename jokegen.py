@@ -14,5 +14,3 @@ responce = content["text_hidden"]
 print(joke)
 print(jspcoik)
 print(responce)
-
-sleep(10000.0)
